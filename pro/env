@@ -1,0 +1,5 @@
+NODE_ENV=production
+PORT=5000
+MONGO_URI=mongodb+srv://rutuvip:rutustore@cluster0.5hm4y.mongodb.net/rutuvipstore?retryWrites=true&w=majority
+JWT_SECRET=helloworld
+PAYPAL_CLIENT_ID=AU34ykvngV1TDJ_15i9mvE-zz3YTRQqUy0IEcK97v74w0jeUVYWTz15D9DPZjTviWTD2i9d-_JE8mQ3M
